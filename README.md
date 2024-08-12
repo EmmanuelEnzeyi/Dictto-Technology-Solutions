@@ -1,2 +1,2 @@
 # Dictto-Technology-Solutions
-![alt text](image.png)
+![alt text](BRS.png)
